@@ -1,5 +1,5 @@
 # kepler-fill-and-submit-CRN
-Kepler automation script for trying CRN values in given time intervals.
+Kepler automation script to try CRN values in given time intervals.
 
 Login to Kepler with your student ID and password:
 https://kepler-beta.itu.edu.tr/ogrenci/DersKayitIslemleri/DersKayit
