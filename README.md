@@ -14,3 +14,7 @@ Just copy&paste to your browser console and press "enter" (run).
 <img width="1193" alt="Screenshot 2023-02-08 at 19 17 11" src="https://user-images.githubusercontent.com/10723547/217588244-d6e46b76-8cb7-4806-9b62-411cb381e34e.png">
 
 ! There is a request limit for sumbitting CRN's. Use at your own risk.
+
+Change your run time interval "60000":
+setTimeout(keplerFillCrnAndSubmit, 60000);
+
